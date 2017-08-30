@@ -1,0 +1,8 @@
+.welcome{
+    text-align: center;
+}
+.status{
+    display: inline-block;
+    color: green;
+    text-transform: uppercase;
+}
